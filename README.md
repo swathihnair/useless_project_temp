@@ -89,56 +89,38 @@ Frontend runs on http://localhost:5173
 For Software:
 
 # Screenshots (Add at least 3)
-!sc/landingpages.png(Add screenshot 1 here with proper name)
+sc/landingpages.png(Add screenshot 1 here with proper name)
 *Landing Page*
 
-!sc/cloudphoto.png(Add screenshot 2 here with proper name)
+sc/cloudphoto.png(Add screenshot 2 here with proper name)
 *Cloud photo capture interface where users can upload or take pictures of clouds to begin the magical analysis journey*
 
-!sc/cloudanalyis.png(Add screenshot 3 here with proper name)
+sc/cloudanalyis.png(Add screenshot 3 here with proper name)
 *AI-powered cloud analysis in action - showing the detected cloud shape with confidence scores, personality traits, and the fun character name generated for your cloud*
 
-!sc/finding.png(Add screenshot 3 here with proper name)
+sc/finding.png(Add screenshot 3 here with proper name)
 *The hunting mode feature actively searching for specific cloud shapes that users want to find in their photos*
 
-!sc/objectfound.png(Add screenshot 3 here with proper name)
+sc/objectfound.png(Add screenshot 3 here with proper name)
 *successfully found the searched object in sky*
 
 # Diagrams
-!sc/flow.jpeg(Add your workflow/architecture diagram here)
+sc/flow.jpeg(Add your workflow/architecture diagram here)
 *Cloudify's complete user journey: Starting from the landing page, users upload cloud photos which are analyzed by the AI using CLIP and OpenCV models. The system generates character names, predictions, and personality stats, which are then displayed with fun animations. Finally, results are saved to the database and accessible in the cloud history gallery*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1a0d-gaRFfRUQPK5Koi3k91d21CHfwCHU/view?usp=sharing
+*Cloudify is a playful web application that uses AI to solve a problem nobody asked for: determining what objects clouds look like. Users upload photos of clouds, and the app uses advanced computer vision (CLIP AI model and object detection) to analyze and classify the shapes, telling you whether your cloud looks like an ice cream cone, a bunny, a spaceship, or one of 50+ other objects.*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Maria Anna Vibin: Frontend development
+- Swathi H Nair: Backend Development
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
