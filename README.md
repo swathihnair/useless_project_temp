@@ -89,23 +89,23 @@ Frontend runs on http://localhost:5173
 For Software:
 
 # Screenshots (Add at least 3)
-sc/landingpages.png(Add screenshot 1 here with proper name)
-*Landing Page*
+![Landing Page](sc/landingpages.png)
+*Landing Page - Cloudify's welcoming interface with the cute cloud mascot*
 
-sc/cloudphoto.png(Add screenshot 2 here with proper name)
+![Cloud Photo Capture](sc/cloudephoto.png)
 *Cloud photo capture interface where users can upload or take pictures of clouds to begin the magical analysis journey*
 
-sc/cloudanalyis.png(Add screenshot 3 here with proper name)
+![Cloud Analysis](sc/cloudanalyis.png)
 *AI-powered cloud analysis in action - showing the detected cloud shape with confidence scores, personality traits, and the fun character name generated for your cloud*
 
-sc/finding.png(Add screenshot 3 here with proper name)
+![Hunting Mode](sc/finding.png)
 *The hunting mode feature actively searching for specific cloud shapes that users want to find in their photos*
 
-sc/objectfound.png(Add screenshot 3 here with proper name)
-*successfully found the searched object in sky*
+![Object Found](sc/objectfound.png)
+*Successfully found the searched object in sky*
 
 # Diagrams
-sc/flow.jpeg(Add your workflow/architecture diagram here)
+![Workflow](sc/flow.jpeg)
 *Cloudify's complete user journey: Starting from the landing page, users upload cloud photos which are analyzed by the AI using CLIP and OpenCV models. The system generates character names, predictions, and personality stats, which are then displayed with fun animations. Finally, results are saved to the database and accessible in the cloud history gallery*
 
 
